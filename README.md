@@ -1,7 +1,4 @@
 ### 《移动互联网应用》期末大作业 (A)
-
-<img width="385" height="662" alt="image" src="https://github.com/user-attachments/assets/27d48a97-898d-42a9-8495-5e3ffa48be5f" />
-
 #### 程序流程图
 
 <img width="881" height="755" alt="image" src="https://github.com/user-attachments/assets/5a714324-8f5f-4c9b-bedb-57d8d769fad5" />
